@@ -1,0 +1,110 @@
+.top-banner{
+    margin-top: 0px;
+}
+
+.event-date{
+    text-align: center;
+    color: brown;
+    
+}
+
+.registration-comm-bar {
+    background-color: beige;
+    margin-top: 20px;
+}
+
+.container-registration{
+    padding: 0% 0%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 2%;
+}
+
+.icon{
+    color: #EF8172;
+    margin: 1rem;
+}
+
+.icon:hover{
+    color: blueviolet;
+}
+
+.banner-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flyer-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon{
+    width: 40;
+    height: 40;
+    position: relative;
+    bottom: 8px;
+}
+
+.race-day {
+    background-color: darkseagreen;
+}
+
+.event-information{
+    background-color: aquamarine;
+    line-height: 0.5em;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.event-day-info{
+    width: 50%;
+    margin:20px auto 100px auto; 
+    text-align: left;
+}
+
+.event-day-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.route-info{
+    width: 50%;
+    margin:20px auto 200px auto; 
+    text-align: left;
+}
+
+.route-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-info{
+    width: 50%;
+    margin:100px auto 200px auto; 
+    text-align: left;
+}
+
+.contact-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.support-info{
+    width: 50%;
+    margin:20px auto 200px auto; 
+    text-align: left;
+}
+
+.support-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
