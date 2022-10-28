@@ -1,2 +1,2 @@
 # TamanFunWalk
-TamnFunWalk
+TamanFunWalk
